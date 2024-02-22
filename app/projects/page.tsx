@@ -4,7 +4,7 @@ import Container from "@/components/Container";
 const Projects = () => {
   const projectsData = [
     {
-      image: "/images/gilgitApp.png",
+      image: "/images/waseem01.png",
       title: " Gilgit App",
       description:
         "GilgitApp is a free online marketplace for buying and selling products/items anywhere in Pakistan. including cars, bikes, and many others. I am working as a front-end developer, This product is powered by Uconnect Technologies from Gilgit.",
