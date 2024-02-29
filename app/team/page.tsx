@@ -12,12 +12,12 @@ const Team = () => {
         "https://www.upwork.com/freelancers/~011c2a573d95a779e1",
     },
     {
-      name: "Salman Rasool",
+      name: "Ahtisham Ullah",
       role: "Senior Web Developer",
-      imageUrl: "/images/waseemPro.png",
-      githubUrl: "https://github.com/sam11227",
-      linkedinUrl: "https://www.linkedin.com/in/salman-rasool-02a57027b/",
-      upworkUrl: "https://www.upwork.com/freelancers/~011413f15419c537bd?mp_source=share",
+      imageUrl: "/images/meAdvance.png",
+      githubUrl: "https://github.com/ahtishamullah",
+      linkedinUrl: "https://www.linkedin.com/in/ahtisham-ullah-front-end-developer/",
+      upworkUrl: "https://www.upwork.com/freelancers/~01eec15b9a8637f989",
     },
     {
       name: "Sameer Aslam",

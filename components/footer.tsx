@@ -19,18 +19,18 @@ const navigation = {
     },
     {
       name: "Instagram",
-      href: "https://www.instagram.com/salmanrasool180/",
+      href: "https://www.instagram.com/",
       icon: <InstagramIcon className="h-6 w-6" />,
     },
 
     {
       name: "GitHub",
-      href: "https://github.com/sam11227",
+      href: "https://github.com/",
       icon: <GithubIcon className="h-6 w-6" />,
     },
     {
       name: "Linkedin",
-      href: "https://www.linkedin.com/in/salman-rasool-02a57027b/",
+      href: "https://www.linkedin.com/",
       icon: <LinkedinIcon className="h-5 w-5" />,
     },
   ],
@@ -66,7 +66,7 @@ export default function Example() {
             ))}
           </div>
           <p className="mt-10 text-center text-xs leading-5 text-gray-300">
-            &copy; 2023 Salman Rasool, All rights reserved.
+            &copy; 2023 Ahtisham Ullah, All rights reserved.
           </p>
         </div>
       </footer>

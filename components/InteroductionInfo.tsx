@@ -7,7 +7,7 @@ const InteroductionInfo = () => {
         Hi 👋,<br></br> My name is <br></br>{" "}
         <span className=" bg-gradient-to-r from-blue-500 to-green-500 bg-clip-text text-transparent">
           {" "}
-          Waseem Kashif
+         Ahtisham Ullah
         </span>{" "}
         <br></br> I build things for web
       </h2>

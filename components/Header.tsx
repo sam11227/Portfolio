@@ -22,9 +22,9 @@ export default function Header() {
   const pathname = usePathname();
   const [downloadStard, setDownloadStart] = useState(false);
   const user = {
-    name: "Waseem Kashif",
-    email: "waseemkashif7@gmail.com",
-    imageUrl: "/images/waseemPro.png",
+    name: "Ahtisham Ullah",
+    email: "ahtishamullahbroung@gmail.com",
+    imageUrl: "/images/meAdvance.png",
   };
   const [navigation, setNavigation] = useState([
     { name: "Home", href: "/", current: false },
@@ -98,26 +98,7 @@ export default function Header() {
                         isScrolled ? "text-gray-400" : "text-white "
                       } relative rounded-full  p-1 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800 md:pr-4`}
                     >
-                      <a
-                        href="/assets/resume.pdf"
-                        download="resume.pdf"
-                        className="flex items-center gap-x-1"
-                        onClick={handleDownload}
-                      >
-                        {downloadStard ? (
-                          <Image
-                            src="/images/downloadAni.gif"
-                            alt=" download icon"
-                            width={30}
-                            height={30}
-                          />
-                        ) : (
-                          <DownloadIcon
-                            className={`${downloadStard && "hidden"} w-6 h-6`}
-                          />
-                        )}
-                        Resume
-                      </a>
+               
                     </button>
                     <div className="text-base font-medium text-white">
                       <button
@@ -217,10 +198,9 @@ export default function Header() {
                     className="relative ml-auto flex-shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
                   >
                     <a
-                      href="/assets/resume.pdf"
+                      href="/assets/meAdvance.pdf"
                       download="resume.pdf"
                       className="flex items-center gap-x-1"
-                      onClick={handleDownload}
                     >
                       {downloadStard ? (
                         <Image

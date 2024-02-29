@@ -24,13 +24,13 @@ const About = () => {
           <div className="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
             <div className="w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
               <h1 className="text-3xl font-bold tracking-tight text-white sm:text-5xl">
-                Front-End Wizardry by Salman Rasool - Crafting Interactive Web
+                Front-End Wizardry by Ahtisham Ullah - Crafting Interactive Web
                 Experiences
               </h1>
               <p className="relative mt-6 text-lg md:text-xl leading-8 text-gray-200 sm:max-w-md lg:max-w-none">
                 Welcome! I&apos;m{" "}
                 <span className=" font-medium text-indigo-500">
-                  Salman Rasool{" "}
+                  Ahtisham Ullah{" "}
                 </span>{" "}
                 , a dedicated and innovative front-end web developer with over 3
                 years of hands-on experience in building and optimizing

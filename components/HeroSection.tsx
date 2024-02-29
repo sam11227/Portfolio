@@ -17,7 +17,7 @@ export default function HeroSection() {
                 <br></br>{" "}
                 <span className=" bg-gradient-to-r from-blue-500 to-green-500 bg-clip-text text-transparent">
                   {" "}
-                  Salman Rasool
+                  Ahtisham Ullah
                 </span>{" "}
                 <br></br> I build things for web
               </h1>
